@@ -1,5 +1,5 @@
 pandas==1.2.4
-tensorflow==2.5.0
+tensorflow-cpu
 Flask==2.0.1
 numpy==1.19.5
 gunicorn
